@@ -32,6 +32,8 @@ Published as a professional-format, sanitized report (Markdown + 17-page PDF).
 
 📁 [Report overview](https://github.com/0xabouzied/Web-Pentesting-Writeups/tree/main/DevHub-Pentest-Report) · 📄 [Full report (REPORT.md)](https://github.com/0xabouzied/Web-Pentesting-Writeups/blob/main/DevHub-Pentest-Report/REPORT.md) · 🗎 [PDF](https://github.com/0xabouzied/web-Pentesting-Writeups/blob/main/DevHub-Pentest-Report/report/DevHub_Report_Redacted.pdf)
 
+
+
 ### 2️⃣ SQL Injection — Login Bypass (PortSwigger, Lab 2)
 
 Classic **authentication bypass**: single-quote probe → 500 error →
