@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-youssef--abouzied-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-abouzied-219331325/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-youssefabouzied-212C52?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/youssefabouzied)
 [![HackerOne](https://img.shields.io/badge/HackerOne-0xabouzied-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/0xabouzied)
-[![GitHub](https://img.shields.io/badge/GitHub-Wep--Pentesting--Writeups-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/0xabouzied/Wep-Pentesting-Writeups)
+[![GitHub](https://img.shields.io/badge/GitHub-Web--Pentesting--Writeups-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/0xabouzied/web-Pentesting-Writeups)
 
 ---
 
@@ -30,7 +30,7 @@ Published as a professional-format, sanitized report (Markdown + 17-page PDF).
 | **Chain** | Unauthenticated RCE → SSH persistence → Lateral Movement → Root |
 | **Deliverables** | Executive summary, per-finding PoC & reproduction steps, remediation, sanitization note |
 
-📁 [Report overview](https://github.com/0xabouzied/Wep-Pentesting-Writeups/tree/main/DevHub-Pentest-Report) · 📄 [Full report (REPORT.md)](https://github.com/0xabouzied/Wep-Pentesting-Writeups/blob/main/DevHub-Pentest-Report/REPORT.md) · 🗎 [PDF](https://github.com/0xabouzied/Wep-Pentesting-Writeups/blob/main/DevHub-Pentest-Report/report/DevHub_Report_Redacted.pdf)
+📁 [Report overview](https://github.com/0xabouzied/Web-Pentesting-Writeups/tree/main/DevHub-Pentest-Report) · 📄 [Full report (REPORT.md)](https://github.com/0xabouzied/Web-Pentesting-Writeups/blob/main/DevHub-Pentest-Report/REPORT.md) · 🗎 [PDF](https://github.com/0xabouzied/web-Pentesting-Writeups/blob/main/DevHub-Pentest-Report/report/DevHub_Report_Redacted.pdf)
 
 ### 2️⃣ SQL Injection — Login Bypass (PortSwigger, Lab 2)
 
@@ -39,7 +39,7 @@ Classic **authentication bypass**: single-quote probe → 500 error →
 through **Burp Suite Repeater**. Includes root-cause analysis and the fix
 (parameterized queries / prepared statements).
 
-📄 [Read the writeup](https://github.com/0xabouzied/Wep-Pentesting-Writeups/blob/main/PortSwigger/SQL-Injection/login-bypass-lab2.md)
+📄 [Read the writeup](https://github.com/0xabouzied/Web-Pentesting-Writeups/blob/main/PortSwigger/SQL-Injection/login-bypass-lab2.md)
 
 > ⚠️ All content covers **intentionally vulnerable training labs only**
 > (PortSwigger Academy · HackTheBox). No real targets were used.
