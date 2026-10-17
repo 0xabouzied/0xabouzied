@@ -1,6 +1,6 @@
 # Hi, I'm Youssef Abouzied 👋
 
-**Aspiring Penetration Tester** focused on Web Application Security 🎯
+Aspiring Penetration Tester 🎯 | Web App Security | Computer Engineering Student @ Al-Azhar
 
 - 🎓 Computer Engineering student — Al-Azhar University, Computers & Systems (2023–present)
 - 🐞 Active on bug bounty — participating in programs such as **HackerOne**
