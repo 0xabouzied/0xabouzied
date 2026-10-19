@@ -46,7 +46,31 @@ through **Burp Suite Repeater**. Includes root-cause analysis and the fix
 > ⚠️ All content covers **intentionally vulnerable training labs only**
 > (PortSwigger Academy · HackTheBox). No real targets were used.
 
----
+
+### 3️⃣ Session Management — The Restricted Sessions (CyberTalents)
+
+Classic **session manipulation**: inspecting source code and cookies → 
+identifying unprotected session variables → manipulating parameters via **Burp Suite** 
+→ bypassing access controls and extracting the flag. Includes session security principles 
+and secure token implementation fixes.
+
+📄 [Read the writeup](https://github.com/0xabouzied/Web-Pentesting-Writeups/blob/main/CyberTalents/Cyber%20Talent%20The%20Restricted%20Sessions.md)
+
+> ⚠️ All content covers **intentionally vulnerable training labs only**
+> (CyberTalents · CTF). No real targets were used.
+
+
+### 4️⃣ Computer Networking — CCNA Introduction to Networks
+
+Core **networking fundamentals**: IP addressing & subnetting (VLSM) calculations → 
+configuring static and dynamic routing protocols (RIP) → hands-on network topologies 
+simulated in **Cisco Packet Tracer**. Includes summary notes and practical lab configurations.
+
+📄 [View the repository](https://github.com/0xabouzied/CCNA-Notes)
+
+> ⚠️ All content covers **educational and academic networking labs only**
+> (NTI · Cisco CCNA).
+-----
 
 ## 🛠️ Tools & Technologies
 
@@ -59,3 +83,5 @@ through **Burp Suite Repeater**. Includes root-cause analysis and the fix
 - Ethical Hacking / Network Fundamentals / Introduction to Network Security — MaharaTech
 - Pre Security — TryHackMe
 - OOP & Data Structures — University
+- CCNA - NTI
+- Penetration Testing & Application Security
